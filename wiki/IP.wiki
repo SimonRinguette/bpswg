@@ -1,4 +1,4 @@
-#summary WfMC Statement on Intellectual Property (IP)
+#summary BPSWG Statement on Intellectual Property (IP)
 
 =STATEMENT ON INTELLECTUAL PROPERTY=
 The Business Process Simulation Working Group (BPSWG), Workflow Management Coalition and all its committees and working groups adhere rigidly to the WfMC Intellectual Property Guidelines. [IPPolicy These guidelines are attached in full] and are summarized here.
