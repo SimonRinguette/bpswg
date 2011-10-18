@@ -1,5 +1,9 @@
 #summary Table of Content for the sidebar
 
-*[AntiTrust WfMC Anti Trust Statement]
+*[AntiTrust WfMC Anti-Trust Statement]
 
-*[AntiTrustPolicy WfMC Anti Trust Policy]
+*[IP WfMC IP Statement]
+
+*[AntiTrustPolicy WfMC Anti-Trust Policy]
+
+*[IPPolicy WfMC IP Policy]
