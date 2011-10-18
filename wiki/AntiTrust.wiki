@@ -14,34 +14,3 @@ More precisely the following may not be discussed nor information exchanged in f
 •	Changes in industry production, capacity, or inventory.
 •	Plans of individual companies concerning design, characteristics, production, distribution, or introduction dates of particular products.
 (Note that these same restrictions must be adhered to even at social gatherings incidental to WfMC meetings.
-
-APPENDIX A        ANTI-TRUST POLICY
-Coalition members shall observe the following regarding the joint activities of the Coalition:
-1. All Specifications designated by the Coalition will relate to WfM product areas involving interoperability of products and will not involve other WfM technology areas which would be the basis of competitive differentiation.  Participation in the Coalition, and/or the design, specification or interpretation of the Specifications will not be used as a means of fixing prices, boycotting distributors or otherwise restricting competition.
-2. The design of the Specifications will be based on the technical and practical merits of the various proposals and will not be designed, specified or interpreted in a manner which intentionally discriminates against anyone.
-3. There will be no exchange of information among Coalition Members relating to costs, sales, profitability, prices, marketing or distribution of any individual company product or service other than the Specifications.
-4. Nothing in the Document of Understanding imposes, or should be interpreted as imposing any duty or obligation on any member to adhere to the Specifications.  Each member remains free to follow or reject all or any portion of the Specifications.
-5. Adequate notice of specification/development or interpretation proceedings must be given to all known affected persons and all known affected persons must be given a fair opportunity to comment on specification design and interpretations.
-6. Nothing in the Document of Understanding shall be construed to limit any party's right to obtain services or software programs from other sources, to prohibit or restrict any party from independently developing or acquiring competitive materials, nor to limit any party's right to deal with any other vendors, suppliers, contractors or customers.
- 
-STATEMENT ON INTELLECTUAL PROPERTY
-The Workflow Management Coalition and all its committees and working groups adhere rigidly to the WfMC Intellectual Property Guidelines. These guidelines are attached in full as Appendix A and are summarized here.
-Each Coalition member has the responsibility to avoid raising unsuitable subjects for discussion and to keep in mind that the purpose of the WfMC is to promote the use of workflow (through the establishment of standards for software terminology, interoperability and connectivity between workflow standards) and not individual company's activities in the marketing of particular products.
-
-Accordingly:
-No Coalition Member will assert any exclusive right in any invention or other intellectual property (whether or not patentable), technology, or technical design incorporated in or disclosed during the design or specification of the WfMC Specifications.
-No Coalition Member has any obligation to provide intellectual property rights or to waive any such rights because of participation in the Coalition.
-
-APPENDIX A    INTELLECTUAL PROPERTY POLICY
-
-1. Freedom of Action
-No Coalition Member will assert any exclusive right in any invention or other intellectual property (whether or not patentable), technology, or technical design incorporated in or disclosed during the design or specification of the WfMC Specifications, and any such invention or other intellectual property shall be available without royalty or similar charge and in a free and unrestrained manner for the use of each Coalition Member and anyone using the WfMC Specifications.  Except as otherwise provided in this section, each Coalition Member will continue to retain intellectual property.
-
-No Coalition Member has any obligation to provide intellectual property rights or to waive any such rights because of participation in the Coalition.  Provided however, each Coalition Member must identify any intellectual property rights involved in WfMC Specifications which it wishes to retain when such information is presented to the Coalition.  Such identified intellectual property rights may be subject to intellectual property terms different from those set forth in this DOU if such terms are agreed in writing by Coalition Members.
-
-2. Copyright
-The Coalition Members will jointly own any copyrights in the expressions of the WfMC Specifications.
-
-Each expression of the WfM Specification must include a conspicuous copyright notice referencing each Coalition Member, or former Coalition Members, whose copyrighted material is included in such WfM Specification.  Any copyrighted material included in the expression of the WfM Specification that is licensed to the other Coalition Members without restriction, royalty or other charge.
-
-Each Coalition Member represents and warrants that it has the full and unencumbered right to make available to the other Coalition Members for their copying and use any information in printed, machine readable or other form (including computer program code) which is furnished by it pursuant to this Agreement.
