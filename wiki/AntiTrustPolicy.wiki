@@ -1,4 +1,4 @@
-#summary WfMC Anti-Trust Policy
+#summary BPSWG Anti-Trust Policy
 
 =ANTI-TRUST POLICY=
 Business Process Simulation Working Group (BPSWG) and Coalition members shall observe the following regarding the joint activities of the BPSWG and Coalition:
