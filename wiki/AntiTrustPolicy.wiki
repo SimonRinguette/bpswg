@@ -1,12 +1,12 @@
 #summary BPSWG Anti-Trust Policy
 
-=Business Process Simulation Working Group (BPSWG) ANTI-TRUST POLICY=
-Business Process Simulation Working Group (BPSWG) and Coalition members shall observe the following regarding the joint activities of the BPSWG and Coalition:
+=Business Process Simulation Working Group (BPSWG)Anti-Trust Policy=
+Business Process Simulation Working Group (BPSWG)members shall observe the following regarding the joint activities of the BPSWG:
 
- # All Specifications designated by BPSWG and Coalition will relate to WfM product areas involving interoperability of products and will not involve other WfM technology areas which would be the basis of competitive differentiation.  Participation in the BPSWG, Coalition, and/or the design, specification or interpretation of the Specifications will not be used as a means of fixing prices, boycotting distributors or otherwise restricting competition.
- # The design of the Specifications will be based on the technical and practical merits of the various proposals and will not be designed, specified or interpreted in a manner which intentionally discriminates against anyone.
- # There will be no exchange of information among BPSWG and Coalition Members relating to costs, sales, profitability, prices, marketing or distribution of any individual company product or service other than the Specifications.
- # Participation in the BPSWG does not impose, or should be interpreted as imposing any duty or obligation on any member to adhere to the Specifications.  Each member remains free to follow or reject all or any portion of the Specifications.
+ # All Specifications designated by BPSWG will relate to Business Process Management (BPM) product areas involving interoperability of products and will not involve other technology areas which would be the basis of competitive differentiation.  Participation in the BPSWG, and/or the design, specification or interpretation of BPSWG Specifications will not be used as a means of fixing prices, boycotting distributors or otherwise restricting competition.
+ # The design of BPSWG Specifications will be based on the technical and practical merits of the various proposals and will not be designed, specified or interpreted in a manner which intentionally discriminates against anyone.
+ # There will be no exchange of information among BPSWG members relating to costs, sales, profitability, prices, marketing or distribution of any individual company product or service other than BPSWG Specifications.
+ # Participation in the BPSWG does not impose, or should be interpreted as imposing any duty or obligation on any member to adhere to BPSWG Specifications.  Each member remains free to follow or reject all or any portion of BPSWG Specifications.
  # Adequate notice of specification/development or interpretation proceedings must be given to all known affected persons and all known affected persons must be given a fair opportunity to comment on specification design and interpretations.
- # Participation in BPSWG shall be construed to limit any party's right to obtain services or software programs from other sources, to prohibit or restrict any party from independently developing or acquiring competitive materials, nor to limit any party's right to deal with any other vendors, suppliers, contractors or customers.
+ # Participation in BPSWG shall not be construed to limit any party's right to obtain services or software programs from other sources, to prohibit or restrict any party from independently developing or acquiring competitive materials, nor to limit any party's right to deal with any other vendors, suppliers, contractors or customers.
  
