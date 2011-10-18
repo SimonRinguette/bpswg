@@ -1,7 +1,6 @@
 #summary BPSWG Intellectual Property Policy
 
-=Business Process Simulation Working Group
-Intellectual Property Policy=
+=Business Process Simulation Working Group Intellectual Property Policy=
 
 ==General Policy==
 In all matters of intellectual property rights and procedures, the intention is to benefit the public at large, while respecting the legitimate rights of others.
