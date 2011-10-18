@@ -1,9 +1,5 @@
 #summary Table of Content for the sidebar
 
-*[AntiTrust BPSWG Anti-Trust Statement]
-
-*[IP BPSWG IP Statement]
-
 *[AntiTrustPolicy BPSWG Anti-Trust Policy]
 
 *[IPPolicy BPSWG IP Policy]
