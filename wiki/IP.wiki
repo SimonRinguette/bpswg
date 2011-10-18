@@ -1,4 +1,4 @@
-#summary WfMC Intellectual Property Statement
+#summary WfMC Statement on Intellectual Property (IP)
 
 =STATEMENT ON INTELLECTUAL PROPERTY=
 The Workflow Management Coalition and all its committees and working groups adhere rigidly to the WfMC Intellectual Property Guidelines. [IPPolicy These guidelines are attached in full] and are summarized here.
