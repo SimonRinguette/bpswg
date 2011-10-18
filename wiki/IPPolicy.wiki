@@ -1,0 +1,16 @@
+#summary WfMC Intellectual Property Policy
+
+1. Freedom of Action
+
+No Coalition Member will assert any exclusive right in any invention or other intellectual property (whether or not patentable), technology, or technical design incorporated in or disclosed during the design or specification of the WfMC Specifications, and any such invention or other intellectual prop-erty shall be available without royalty or similar charge and in a free and unrestrained manner for the use of each Coalition Member and anyone using the WfMC Specifications.  Except as otherwise provided in this section, each Coalition Member will continue to retain intellectual property.
+
+No Coalition Member has any obligation to provide intellectual property rights or to waive any such rights because of participation in the Coalition.  Provided however, each Coalition Member must identify any intellectual property rights involved in WfMC Specifications which it wishes to retain when such information is presented to the Coalition.  Such identified intellectual property rights may be subject to intellectual property terms different from those set forth in this DOU if such terms are agreed in writing by Coalition Members.
+
+2. Copyright
+
+The Coalition Members will jointly own any copyrights in the expressions of the WfMC Specifications.
+
+Each expression of the WfM Specification must include a conspicuous copyright notice referencing each Coalition Member, or former Coalition Members, whose copyrighted material is included in such WfM Specification.  Any copyrighted material included in the expression of the WfM Specification that is licensed to the other Coalition Members without restriction, royalty or other charge.
+
+Each Coalition Member represents and warrants that it has the full and unencumbered right to make available to the other Coalition Members for their copying and use any information in printed, machine readable or other form (including computer program code) which is furnished by it pursuant to this Agreement.
+
