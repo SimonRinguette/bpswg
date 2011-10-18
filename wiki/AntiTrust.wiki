@@ -1,7 +1,8 @@
 #summary WfMC Anti Trust Policiy
 
 =STATEMENT ON ANTI-TRUST POLICY=
-The Workflow Management Coalition and all its committees and working groups adhere rigidly to the WfMC Anti-trust policy.  This policy is attached in full as Appendix A and is summarized here.
+The Workflow Management Coalition and all its committees and working groups adhere rigidly to the WfMC Anti-trust policy.  [AntiTrustPolicy This policy is attached in full] and is summarized here.
+
 Each Coalition member has the responsibility to avoid raising unsuitable subjects for discussion and to keep in mind that the purpose of the WfMC is to promote the use of workflow (through the establishment of standards for software terminology, interoperability and connectivity between workflow standards) and not individual company's activities in the marketing of particular products.
 Accordingly, the following matters as they relate to specific member company products or plans are not to be considered or discussed:
 
