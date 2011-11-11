@@ -3,16 +3,15 @@
 ==Meetings==
 Web Meetings: Weekly
 
-Schedule : Every Thursday 11:00-13:00 hrs (EDT)
+  * Schedule : Every Thursday 11:00-13:00 hrs (EDT)
 
 Face to Face (F2F) Meetings: As Required
 
-3 days (tues,wed,thurs)
-
-Hosted by one of BPSWG member organization
-
-Members cover their own Travel & Material Expenses
+  * 3 days (tues,wed,thurs)
+  * Hosted by one of BPSWG member organization
+  * Members cover their own Travel & Material Expenses
 
 First F2F: early 2012
-
-Potential Host (?): Fujitsu (Ca), OpenText (MA)
+  * Potential Host (?): 
+   * Fujitsu (Ca), 
+   * OpenText (MA)
