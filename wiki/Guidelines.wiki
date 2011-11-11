@@ -11,7 +11,7 @@ A Pure Thought Leadership Effort
 ==Mandate:==
 Developing, reviewing, promoting BPM Simulation relevant standard(s) 
 
-=Success is measured by adoption=
+*Success is measured by adoption*
 
 ==BPSWG Roles==
 Members
