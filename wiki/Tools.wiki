@@ -2,28 +2,19 @@
 
 ==Tools==
   * Mailing List/Group 
-
-Moderated list: bpswg@googlegroups.com
-
-List home: http://groups.google.com/group/bpswg
+   * Moderated list: bpswg@googlegroups.com
+   * List home: http://groups.google.com/group/bpswg
 
   * BPSWG Home 
+    * http://code.google.com/p/bpswg/
 
-http://code.google.com/p/bpswg/
-
-Document/File Management
-
-Issue Management
-
-  * Web Meetings
-GoTo Webinars (Provided by Trisotech)
-
-  * Modeling Tools
-BPMN 2.0 Modeler for Visio (Provided by Trisotech)
-
-Enterprise Architect (EA) (Provided by Sparx Systems)
-
+  * Document/File Management
+   *Issue Management
+   * Web Meetings
+    *GoTo Webinars (Provided by Trisotech)
+   * Modeling Tools
+    * BPMN 2.0 Modeler for Visio (Provided by Trisotech)
+    * Enterprise Architect (EA) (Provided by Sparx Systems)
   * General Docs
-MS Word
-
-MS PowerPoint
+   * MS Word
+   * MS PowerPoint
