@@ -109,12 +109,7 @@ Specification Published
 As required
 Specification Revision Efforts
 
-==BPSWG Milestones==
-Nov 2011: Specification Development
-May 2012: Alpha Version (Final internal review)
-Jul 2012 : Beta Version (Opened for industry/public review)
-Oct 2012: Specification Finalisation 
-Nov 2012: Specification Published
+
 
 ==Tools==
 Mailing List/Group 
