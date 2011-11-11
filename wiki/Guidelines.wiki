@@ -74,17 +74,15 @@ Keep Bulk (if not all) of discussions during meetings
 ==BPSWG Decisions==
   * Seek consensus everyone input is welcomed and desired (consensus and proof of running code)
   * If vote becomes required
-  ** Developer and Participant organizations can vote
-  ** 1 vote per organization
+   * Developer and Participant organizations can vote
+   * 1 vote per organization
   * Chair & Developer Member organizations have veto 
-  ** As to not publish material that will not get implemented
-
-
+   * As to not publish material that will not get implemented
 
 ==BPSWG Lifecycle==
   * Specification created by a dedicated designated group (BPSWG) 
   * Specification opened for Industry/Public Review
-Analysts, PR,  etc.
+    * Analysts, PR,  etc.
   * Specification Finalisation 
   * Specification Published
 
