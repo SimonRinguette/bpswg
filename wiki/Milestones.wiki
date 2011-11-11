@@ -1,13 +1,12 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+==BPSWG Milestones==
+Nov 2011: Specification Development
 
-Add your content here.
+May 2012: Alpha Version (Final internal review)
 
+Jul 2012 : Beta Version (Opened for industry/public review)
 
-= Details =
+Oct 2012: Specification Finalisation 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Nov 2012: Specification Published
