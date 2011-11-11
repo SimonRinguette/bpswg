@@ -21,3 +21,46 @@ The group may have one or more Chairs to perform the administrative functions of
 
 Editor(s)
 The group may have one or more Editors to produce official versions of deliverables. Responsibility to ensure that the text flows, that it is sensible and accurate
+
+==BPSWG Members Participation Categories==
+Members of the BPSWG must elect to, and shall be recognized as to, participating in the BSWG as a:
+
+Developer: 
+Regular active contributor to the development of the BPSWG standards: Intends to actually implement the BPSWG standards in their application(s).
+Participant: 
+Regular active contributor to the development of the BPSWG standards: Practitioners with knowledge relevant to BPSWG that bring context to the work being done (breadth and depth)
+ Reviewer: 
+Reactive contributor: Interested parties that iteratively review versions and provide feedback on BPSWG deliverables. 
+
+==BPSWG Legalese==
+This work by WfMC is licensed under a Creative Commons Attribution 3.0 Unported License
+Gist: You are free and we are free:
+    to Share — to copy, distribute and transmit the work
+    to Remix — to adapt the work
+    to make commercial use of the work 
+Attribution — You must attribute the work
+
+Anti-Trust Policies
+Gist: We are not getting together to manipulate the market
+
+Intellectual Property (IP) Policy
+Gist:  Do not contribute any protected material
+
+==BPSWG Modus Operandi (MO)==
+Start from an initial version 0 proposal and iterate by raising and resolving issues against it. 
+To break the white page syndrome
+Obtain early focus
+Keep Bulk (if not all) of discussions during meetings
+No forum or email conversation threads  
+use issue tracking 
+for traceability and openness
+
+==BPSWG Iterative Process==
+Issue identified/raised by any member
+Assignee volunteered/named
+Assignee develop conceptual proposal
+Conceptual proposal presented/discussed at meeting (bis)
+Assignee write Specification text proposal
+Editors integrates into current working version of the Specification
+
+
