@@ -38,55 +38,55 @@ Reactive contributor: Interested parties that iteratively review versions and pr
 ==BPSWG Legalese==
 This work by WfMC is licensed under a Creative Commons Attribution 3.0 Unported License
 
-Gist: You are free and we are free:
-    to Share — to copy, distribute and transmit the work
-    to Remix — to adapt the work
-    to make commercial use of the work 
-Attribution — You must attribute the work
+*Gist:* You are free and we are free:
+  * to Share — to copy, distribute and transmit the work
+  * to Remix — to adapt the work
+  * to make commercial use of the work 
+*Attribution* — You must attribute the work
 
 [AntiTrustPolicy Anti-Trust Policiy]
 
-Gist: We are not getting together to manipulate the market
+*Gist:* We are not getting together to manipulate the market
 
-Intellectual Property (IP) Policy
+[IPPolicy Intellectual Property (IP) Policy]
 
-Gist:  Do not contribute any protected material
+*Gist:*  Do not contribute any protected material
 
 ==BPSWG Modus Operandi (MO)==
-Start from an initial version 0 proposal and iterate by raising and resolving issues against it. 
-To break the white page syndrome
-Obtain early focus
+Start from an initial version 0 proposal and iterate by raising and resolving issues against it.
+ 
+  * To break the white page syndrome
+  * Obtain early focus
+
 Keep Bulk (if not all) of discussions during meetings
-No forum or email conversation threads  
-use issue tracking 
-for traceability and openness
+
+  * No forum or email conversation threads  
+  * use issue tracking for traceability and openness
 
 ==BPSWG Iterative Process==
-Issue identified/raised by any member
-Assignee volunteered/named
-Assignee develop conceptual proposal
-Conceptual proposal presented/discussed at meeting (bis)
-Assignee write Specification text proposal
-Editors integrates into current working version of the Specification
+  * Issue identified/raised by any member
+  * Assignee volunteered/named
+  * Assignee develop conceptual proposal
+  * Conceptual proposal presented/discussed at meeting (bis)
+  * Assignee write Specification text proposal
+  * Editors integrates into current working version of the Specification
 
 ==BPSWG Decisions==
-Seek consensus everyone input is welcomed and desired (consensus and proof of running code)
-If vote becomes required
-Developer and Participant organizations can vote
-1 vote per organization
-Chair & Developer Member organizations have veto 
-As to not publish material that will not get implemented
-
-
+  * Seek consensus everyone input is welcomed and desired (consensus and proof of running code)
+  * If vote becomes required
+  ** Developer and Participant organizations can vote
+  ** 1 vote per organization
+  * Chair & Developer Member organizations have veto 
+  ** As to not publish material that will not get implemented
 
 
 
 ==BPSWG Lifecycle==
-Specification created by a dedicated designated group (BPSWG) 
-Specification opened for Industry/Public Review
+  * Specification created by a dedicated designated group (BPSWG) 
+  * Specification opened for Industry/Public Review
 Analysts, PR,  etc.
-Specification Finalisation 
-Specification Published
+  * Specification Finalisation 
+  * Specification Published
 
 As required
-Specification Revision Efforts
+  * Specification Revision Efforts
