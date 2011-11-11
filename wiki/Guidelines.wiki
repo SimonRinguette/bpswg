@@ -83,21 +83,7 @@ First F2F: early 2012
 Potential Host (?): Fujitsu (Ca), OpenText (MA)
 3 days (tues,wed,thurs)
 
-==BPSWG Deliverable Scope==
-Reasonably achievable and achievable within a reasonable timeframe.
 
-Interchange Format (XSD)
-Meta-model (UML)
-Specification Document 
-	Meta-Model 
-	Interchange Format
-Introductory Document 
-	Positioning
-	Examples
-
-==BPSWG Other Potential by-products==
-Reference Implementation (Open Source?)
-Open Source Editor
 
 ==BPSWG Lifecycle==
 Specification created by a dedicated designated group (BPSWG) 
