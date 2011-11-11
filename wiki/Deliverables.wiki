@@ -8,16 +8,13 @@ Reasonably achievable and achievable within a reasonable timeframe.
   * Meta-model (UML)
 
   * Specification Document 
-	Meta-Model 
+    # Meta-Model 
+    # Interchange Format
 
-	Interchange Format
-
-  *Introductory Document 
-	Positioning
-
-	Examples
+  * Introductory Document 
+    # Positioning
+    # Examples
 
 ==BPSWG Other Potential by-products==
   * Reference Implementation (Open Source?)
-
   * Open Source Editor
