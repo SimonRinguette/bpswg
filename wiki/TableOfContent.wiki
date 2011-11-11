@@ -10,6 +10,6 @@
 
 *[Milestones BPSWG Milestones]
 
-*[Meetings Meetings]
+*[Meetings BPSWG Meetings]
 
-*[Tools Tools]
+*[Tools BPSWG Tools]
