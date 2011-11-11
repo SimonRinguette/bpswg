@@ -5,3 +5,5 @@
 *[IPPolicy BPSWG IP Policy]
 
 *[Guidelines BPSWG Guidelines]
+
+*[Milestones BPSWG Milestones]
