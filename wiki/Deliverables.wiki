@@ -3,21 +3,21 @@
 ==BPSWG Deliverable Scope==
 Reasonably achievable and achievable within a reasonable timeframe.
 
-Interchange Format (XSD)
+  * Interchange Format (XSD)
 
-Meta-model (UML)
+  * Meta-model (UML)
 
-Specification Document 
+  * Specification Document 
 	Meta-Model 
 
 	Interchange Format
 
-Introductory Document 
+  *Introductory Document 
 	Positioning
 
 	Examples
 
 ==BPSWG Other Potential by-products==
-Reference Implementation (Open Source?)
+  * Reference Implementation (Open Source?)
 
-Open Source Editor
+  * Open Source Editor
