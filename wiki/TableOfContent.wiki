@@ -6,4 +6,6 @@
 
 *[Guidelines BPSWG Guidelines]
 
+*[Deliverables BPSWG Deliverables] 
+
 *[Milestones BPSWG Milestones]
