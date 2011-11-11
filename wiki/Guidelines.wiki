@@ -44,10 +44,12 @@ Gist: You are free and we are free:
     to make commercial use of the work 
 Attribution — You must attribute the work
 
-[Antitrust Anti-Trust Policies]
+[AntiTrustPolicy Anti-Trust Policiy]
+
 Gist: We are not getting together to manipulate the market
 
 Intellectual Property (IP) Policy
+
 Gist:  Do not contribute any protected material
 
 ==BPSWG Modus Operandi (MO)==
