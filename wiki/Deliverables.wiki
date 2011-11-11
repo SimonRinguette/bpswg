@@ -1,13 +1,23 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+==BPSWG Deliverable Scope==
+Reasonably achievable and achievable within a reasonable timeframe.
 
-Add your content here.
+Interchange Format (XSD)
 
+Meta-model (UML)
 
-= Details =
+Specification Document 
+	Meta-Model 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+	Interchange Format
+
+Introductory Document 
+	Positioning
+
+	Examples
+
+==BPSWG Other Potential by-products==
+Reference Implementation (Open Source?)
+
+Open Source Editor
