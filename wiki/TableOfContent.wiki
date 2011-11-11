@@ -3,3 +3,5 @@
 *[AntiTrustPolicy BPSWG Anti-Trust Policy]
 
 *[IPPolicy BPSWG IP Policy]
+
+*[Guidelines BPSWG Guidelines]
