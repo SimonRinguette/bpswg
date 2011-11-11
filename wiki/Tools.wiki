@@ -1,13 +1,29 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+==Tools==
+  * Mailing List/Group 
 
-Add your content here.
+Moderated list: bpswg@googlegroups.com
 
+List home: http://groups.google.com/group/bpswg
 
-= Details =
+  * BPSWG Home 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://code.google.com/p/bpswg/
+
+Document/File Management
+
+Issue Management
+
+  * Web Meetings
+GoTo Webinars (Provided by Trisotech)
+
+  * Modeling Tools
+BPMN 2.0 Modeler for Visio (Provided by Trisotech)
+
+Enterprise Architect (EA) (Provided by Sparx Systems)
+
+  * General Docs
+MS Word
+
+MS PowerPoint
