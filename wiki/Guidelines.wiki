@@ -71,17 +71,7 @@ Developer and Participant organizations can vote
 Chair & Developer Member organizations have veto 
 As to not publish material that will not get implemented
 
-==Meetings==
-Web Meetings: Weekly
-Proposed schedule : Every Thursday 11:00-13:00 hrs (EDT)
 
-Face to Face (F2F) Meetings: As Required
-Hosted by one of BPSWG member organization
-Members cover their own Travel & Material Expenses
-
-First F2F: early 2012
-Potential Host (?): Fujitsu (Ca), OpenText (MA)
-3 days (tues,wed,thurs)
 
 
 
@@ -94,5 +84,3 @@ Specification Published
 
 As required
 Specification Revision Efforts
-
-
