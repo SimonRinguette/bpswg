@@ -63,4 +63,72 @@ Conceptual proposal presented/discussed at meeting (bis)
 Assignee write Specification text proposal
 Editors integrates into current working version of the Specification
 
+==BPSWG Decisions==
+Seek consensus everyone input is welcomed and desired (consensus and proof of running code)
+If vote becomes required
+Developer and Participant organizations can vote
+1 vote per organization
+Chair & Developer Member organizations have veto 
+As to not publish material that will not get implemented
 
+==Meetings==
+Web Meetings: Weekly
+Proposed schedule : Every Thursday 11:00-13:00 hrs (EDT)
+
+Face to Face (F2F) Meetings: As Required
+Hosted by one of BPSWG member organization
+Members cover their own Travel & Material Expenses
+
+First F2F: early 2012
+Potential Host (?): Fujitsu (Ca), OpenText (MA)
+3 days (tues,wed,thurs)
+
+==BPSWG Deliverable Scope==
+Reasonably achievable and achievable within a reasonable timeframe.
+
+Interchange Format (XSD)
+Meta-model (UML)
+Specification Document 
+	Meta-Model 
+	Interchange Format
+Introductory Document 
+	Positioning
+	Examples
+
+==BPSWG Other Potential by-products==
+Reference Implementation (Open Source?)
+Open Source Editor
+
+==BPSWG Lifecycle==
+Specification created by a dedicated designated group (BPSWG) 
+Specification opened for Industry/Public Review
+Analysts, PR,  etc.
+Specification Finalisation 
+Specification Published
+
+As required
+Specification Revision Efforts
+
+==BPSWG Milestones==
+Nov 2011: Specification Development
+May 2012: Alpha Version (Final internal review)
+Jul 2012 : Beta Version (Opened for industry/public review)
+Oct 2012: Specification Finalisation 
+Nov 2012: Specification Published
+
+==Tools==
+Mailing List/Group 
+Moderated list: bpswg@googlegroups.com
+List home: http://groups.google.com/group/bpswg
+BPSWG Home 
+http://code.google.com/p/bpswg/
+Document/File Management
+Issue Management
+Web Meetings
+GoTo Webinars (Provided by Trisotech)
+Modeling Tools
+BPMN 2.0 Modeler for Visio (Provided by Trisotech)
+Enterprise Architect (EA) (Provided by Sparx Systems)
+General Docs
+MS Word
+MS PowerPoint
