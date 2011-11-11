@@ -1,16 +1,17 @@
 #summary One-sentence summary of this page.
 
 ==BPSWG by Definition==
-What it is:
+
+===What it is:===
 A Standardization Effort
 
-What it is not:
+===What it is not:===
 A Pure Thought Leadership Effort
 
-Mandate:
+==Mandate:==
 Developing, reviewing, promoting BPM Simulation relevant standard(s) 
 
-Success is measured by adoption
+=Success is measured by adoption=
 
 ==BPSWG Roles==
 Members
