@@ -37,13 +37,14 @@ Reactive contributor: Interested parties that iteratively review versions and pr
 
 ==BPSWG Legalese==
 This work by WfMC is licensed under a Creative Commons Attribution 3.0 Unported License
+
 Gist: You are free and we are free:
     to Share — to copy, distribute and transmit the work
     to Remix — to adapt the work
     to make commercial use of the work 
 Attribution — You must attribute the work
 
-Anti-Trust Policies
+[Antitrust Anti-Trust Policies]
 Gist: We are not getting together to manipulate the market
 
 Intellectual Property (IP) Policy
