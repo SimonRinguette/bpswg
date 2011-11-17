@@ -76,8 +76,7 @@ Keep Bulk (if not all) of discussions during meetings
   * If vote becomes required
    * Developer and Participant organizations can vote
    * 1 vote per organization
-  * Chair & Developer Member organizations have veto 
-   * As to not publish material that will not get implemented
+
 
 ==BPSWG Lifecycle==
   * Specification created by a dedicated designated group (BPSWG) 
