@@ -9,12 +9,20 @@
     * http://code.google.com/p/bpswg/
 
   * Document/File Management
-   *Issue Management
-   * Web Meetings
-    *GoTo Webinars (Provided by Trisotech)
+    * http://code.google.com/p/bpswg/downloads/list
+
+  * Issue Management
+    * http://code.google.com/p/bpswg/issues/list
+
+  * Web Meetings
+    * GoTo Webinars (Provided by Trisotech)
+     * https://www1.gotomeeting.com/register/397056008
+
    * Modeling Tools
     * BPMN 2.0 Modeler for Visio (Provided by Trisotech)
+      * http://www.businessprocessincubator.com/bpmn-2-0-modeler-for-visio.html
     * Enterprise Architect (EA) (Provided by Sparx Systems)
+     * Contact Denis Gagne for License
   * General Docs
    * MS Word
-   * MS PowerPoint
+   * MS Powerpoint
