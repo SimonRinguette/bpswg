@@ -3,6 +3,8 @@
 ==BPSWG Milestones==
 Nov 2011: Specification Development
 
+Feb 7,8,9 2012: First Face to Face meeting in Paris
+
 May 2012: Alpha Version (Final internal review)
 
 Jul 2012 : Beta Version (Opened for industry/public review)
