@@ -11,7 +11,7 @@ Reasonably achievable and achievable within a reasonable timeframe.
     # Meta-Model 
     # Interchange Format
 
-  * Introductory Document 
+  * Introductory Document (Implementers' Guide)
     # Positioning
     # Examples
 
