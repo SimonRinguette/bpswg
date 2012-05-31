@@ -13,8 +13,6 @@ July 15 2012: Alpha Version Comments Deadline
 
 August 1 2012 : Beta Version (Opened for industry/public review)
 
-September 1 2012: Beta Version Comments Deadline
-
 November 1 2012: Specification Finalisation 
 
 December 1 2012: Specification Published
